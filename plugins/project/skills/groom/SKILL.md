@@ -38,4 +38,4 @@ The commit that applies a full groom carries a `Groomed:` line in its message. T
 
 ## Reporting
 
-Prepare corrections for what is clearly wrong without asking. When content moves out of a document being deleted, carry over every part. Drop only what is wrong, and list each drop with its reason. Tell the user what changed, as numbered one-liners of ten words or fewer and nothing more, and ask only about a call close to the line. Give details only when the user asks for one by number. Commit only once the user has reviewed and approved the changes.
+Prepare corrections for what is clearly wrong without asking. When content moves out of a document being deleted, carry over every part. Drop only what is wrong, and list each drop with its reason. Ask only about a call close to the line. Tell the user what changed and what needs their call, as numbered one-liners of ten words or fewer and nothing more. Give details only when the user asks for one by number. Commit only once the user has reviewed and approved the changes.
