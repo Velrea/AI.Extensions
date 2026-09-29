@@ -4,7 +4,7 @@ description: "Records a major decision: a hard call between real alternatives, a
 when_to_use: "A hard call between real alternatives has just been settled, or the user asks to record a decision."
 ---
 
-A decision record holds a major decision that still binds: what was chosen, the alternatives investigated, and why this one won. Each is one file in `docs/decisions/`, named for the decision, never numbered.
+A decision record holds a major decision that still binds: what was chosen, the alternatives investigated, and why this one won. Each is one file in `docs/decisions/`, or the folder `AGENTS.md` records instead, named for the decision, never numbered.
 
 ## The bar
 

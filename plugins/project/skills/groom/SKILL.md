@@ -10,8 +10,10 @@ Before judging anything, in a partial or a full groom, load `project:document`, 
 
 ## What it finds
 
-- Anything that breaks the rules of those four skills.
-- A document that no longer matches the code it describes, or describes code that is gone.
+- Anything that breaks the rules of those four skills, or a deviation `AGENTS.md` records.
+- Front matter, fields, or folders that neither those four skills nor `AGENTS.md` define.
+- A document that no longer matches the code it describes.
+- A document describing code that does not exist. Move its content into the work item that will build it, or delete it if nothing will.
 - A major system or component with no document.
 - README or AGENTS.md out of date, or an AGENTS.md line an agent would not need.
 - A major decision made in a merged pull request with no record.
@@ -19,6 +21,8 @@ Before judging anything, in a partial or a full groom, load `project:document`, 
 - An idea already built or no longer relevant.
 - A work item already done.
 - A link that no longer resolves, including a link to code.
+
+Missing code is not a finding in itself: a repository with work items and no code yet is in a valid state.
 
 ## Partial groom
 

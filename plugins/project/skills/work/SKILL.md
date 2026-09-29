@@ -4,7 +4,7 @@ description: "Creates, lists, and finishes committed work items."
 when_to_use: "The user asks to create a work item or promote an idea, asks what is ready, or finishes the work an item describes."
 ---
 
-A work item is something committed to. Each is one file in `docs/work/`, named for the work.
+A work item is something committed to. Each is one file in `docs/work/`, or the folder `AGENTS.md` records instead, named for the work.
 
 ## Create
 
@@ -16,4 +16,4 @@ Show ready items as numbered one-liners. An item named by an open pull request i
 
 ## Finish
 
-When the work is done, delete its file, and the idea it was promoted from.
+When the work is done, delete its file, and the idea it was promoted from. Design the item held becomes a document written from the code as built, where it meets the bar in `project:document`.
