@@ -1,6 +1,6 @@
 # AI.Extensions
 
-A Claude Code plugin marketplace from Velrea.
+The Claude Code plugins Velrea uses day to day in development, published for anyone to use.
 
 ## Add the marketplace
 
@@ -16,7 +16,7 @@ claude plugin install <plugin>@ai-extensions
 
 ## Plugins
 
-Each plugin lives in `plugins/<name>/` and carries its own README.
+- [project](plugins/project/): keeps a repository's documentation and project management in good condition.
 
 ## License
 
