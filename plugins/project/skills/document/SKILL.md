@@ -8,7 +8,7 @@ Documents describe the system as it is now, at a high level. Go into detail only
 
 - `README.md` is for people: what the project is and how to use it.
 - `AGENTS.md` holds only what an agent would get wrong without it.
-- Every other document lives under `docs/`, beside `decisions/`, `ideas/`, and `work/`. A document about part of the system names the code it covers in its front matter, as `covers:` paths or globs.
+- Every other document lives under `docs/`, beside `decisions/`, `ideas/`, and `work/`. Where a document describes code, it links to that code in its prose.
 
 ## Structure
 
