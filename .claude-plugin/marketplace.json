@@ -1,0 +1,8 @@
+{
+  "name": "ai-extensions",
+  "owner": {
+    "name": "Velrea"
+  },
+  "description": "Claude Code plugins from Velrea.",
+  "plugins": []
+}
