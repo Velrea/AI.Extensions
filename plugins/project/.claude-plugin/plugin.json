@@ -1,5 +1,6 @@
 {
   "name": "project",
+  "version": "0.1.0",
   "description": "Keeps a repository's documentation and project management in good condition.",
   "author": {
     "name": "Velrea"
