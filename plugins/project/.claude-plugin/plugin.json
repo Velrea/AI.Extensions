@@ -1,6 +1,6 @@
 {
   "name": "project",
-  "description": "Keeps a repository's documentation and project management in good condition: the README, AGENTS.md, subject documents that state how things stand now, a short list of decisions that bind, ideas, committed work, and a groom that finds where they have drifted from the code.",
+  "description": "Keeps a repository's documentation and project management in good condition.",
   "author": {
     "name": "Velrea"
   },
