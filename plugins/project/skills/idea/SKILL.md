@@ -10,7 +10,7 @@ An idea is something that might be worth doing, with no commitment. Each is one 
 
 Before writing, look for an existing idea on the same thing and add to it instead.
 
-Name the subject the idea concerns, then capture what the user said and what was discussed, at whatever length that takes. Invent nothing the conversation did not hold. No status, priority, or acceptance criteria.
+Name the subject the idea concerns in words, never as a link to a work item, then capture what the user said and what was discussed, at whatever length that takes. Invent nothing the conversation did not hold. No status, priority, or acceptance criteria.
 
 ## Triage
 
