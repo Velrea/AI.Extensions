@@ -1,7 +1,7 @@
 ---
 name: document
 description: "Writes and updates a repository's README, AGENTS.md, and high-level documents in docs/."
-when_to_use: "The user asks for something to be documented, a change adds or reshapes a major system or significant component, or a change makes an existing document untrue."
+when_to_use: "Adding or changing documentation."
 ---
 
 Documents describe the system as it is now, at a high level. Go into detail only where reading the code would not make it obvious how something works, such as a mechanism that spans several parts or a data format other code relies on.
@@ -17,8 +17,6 @@ Organize `docs/` the way the system is organized: one document per major system 
 ## The bar
 
 A subject earns a document when it is a major system or significant component of the project: something someone new would need explained before working on it. Small changes never do. A subject that clearly meets the bar gets its document without asking. For one close to the line, ask the user, and bring what you would write or change.
-
-Update a document in the same change that makes it untrue.
 
 ## What stays out
 

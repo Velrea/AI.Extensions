@@ -12,7 +12,7 @@ A decision earns a record when all three hold: reversing it would mean substanti
 
 ## Writing
 
-Capture the investigation and evaluation as the conversation held them, at whatever length that takes. Invent nothing. Link the record from each subject document it shaped.
+Capture the investigation and evaluation as the conversation held them, at whatever length that takes. Invent nothing. Link the record from each document it shaped.
 
 ## Replacing
 
