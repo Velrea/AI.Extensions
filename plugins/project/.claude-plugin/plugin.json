@@ -1,0 +1,9 @@
+{
+  "name": "project",
+  "version": "0.9.0",
+  "description": "Keeps a repository's documentation and project management in good condition.",
+  "author": {
+    "name": "Velrea"
+  },
+  "license": "MIT"
+}

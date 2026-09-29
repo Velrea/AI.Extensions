@@ -1,0 +1,13 @@
+{
+  "name": "ai-extensions",
+  "owner": {
+    "name": "Velrea"
+  },
+  "description": "The Claude Code plugins Velrea uses day to day in development, published for anyone to use.",
+  "plugins": [
+    {
+      "name": "project",
+      "source": "./plugins/project"
+    }
+  ]
+}
