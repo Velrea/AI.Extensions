@@ -1,7 +1,7 @@
 ---
 name: groom
-description: "Keeps documents, decisions, ideas, and work items in step with the code as it changes, one area at a time or across the whole repository."
-when_to_use: "Starting to change code or documents in an area, even when nobody asks for documentation, or the user asks to groom the repository."
+description: "Brings documents, decisions, ideas, and work items in line with each code change, one area at a time or across the whole repository."
+when_to_use: "Before editing code, tests, or configuration for a feature, a fix, or a refactor, even when nobody mentions documentation, or the user asks to groom the repository."
 ---
 
 Grooming keeps documents, decision records, ideas, and work items true to the code: it finds what has drifted, what is missing, and what is dead.

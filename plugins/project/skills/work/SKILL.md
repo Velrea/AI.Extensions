@@ -22,7 +22,7 @@ Show ready items as numbered one-liners, in dependency order. An item is ready w
 
 ## Start
 
-Once work on an item starts, leave the item as written: it is the starting point. Design settled or changed along the way goes into the documents for the code as it is written, following `project:document`.
+Once work on an item starts, leave the item as written: it is the starting point. Design settled or changed along the way goes into the documents for the code as it is written, following `project:document`. Load `project:groom` as the work begins.
 
 ## Finish
 
