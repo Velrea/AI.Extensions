@@ -1,14 +1,18 @@
 ---
 name: converge
-description: "Converges on a choice with the user through rounds of options: offers a few, takes what the user likes and dislikes about each, and offers the next set shaped by that, until the user picks one."
-when_to_use: "The user asks for options, variations, candidates, or alternatives to choose among. Also any moment work reaches a choice among several things that could be shown."
+description: "Settles a choice with the user through rounds of options."
+when_to_use: "The user asks for options, variations, or alternatives to choose among, or work reaches a choice between things that can be shown."
 argument-hint: "[what to converge on]"
 ---
 
-You are helping the user choose by showing, never by asking in the abstract. Offer three options unless the user or the calling skill names another count, up to five.
+Help the user choose by showing options, never by asking in the abstract.
 
-In the first round, spread the options across the range of what is possible, so that what the user likes and dislikes about each one tells you which facets matter. In each later round, hold what the user liked, drop what the user refused, and vary only what is still open.
+## Options
 
-Every option is the whole thing, at the fidelity the user will judge it at, never a description of it. Choose the medium for what is being judged. A rendered image or a screenshot for something visual, text in the conversation for prose, a file where the thing is a page or a document. The question tool fits only an option short enough to read in a preview.
+Offer three unless the user or the calling skill names another count, up to five. Each option is the whole thing at the fidelity the user will judge it at, never a description of it: an image or screenshot for something visual, text in the conversation for prose, a file for a page or a document. Use the question tool only when every option fits in its preview.
 
-After each set, ask the user to pick one or to say what they like and dislike about each. A pick ends the loop. A pick that asks for a change is feedback, and the next set is built from that option. Anything else shapes the next set too. Where a set has taught you nothing new, say what you still cannot tell about what the user wants and ask that alongside the next set. The user decides when the rounds have gone on long enough.
+## Rounds
+
+Spread the first round across the range of what is possible, so the user's reactions show which facets matter. Each later round keeps what the user liked, drops what they refused, and varies only what is still open.
+
+After each set, ask the user to pick one or to say what they like and dislike about each. A pick that asks for a change is feedback, and the next set is built from that option. When a set taught you nothing new, name what you still cannot tell and ask it alongside the next set. Only the user ends the rounds, by picking or by stopping.

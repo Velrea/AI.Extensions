@@ -17,7 +17,7 @@ claude plugin install <plugin>@ai-extensions
 ## Plugins
 
 - [project](plugins/project/): keeps a repository's documentation and project management in good condition.
-- [workshop](plugins/workshop/): working sessions that draw out and shape your thinking. An interview that settles what you want one question at a time, and a converge that settles a choice through rounds of options.
+- [workshop](plugins/workshop/): draws out what the user wants, builds on their ideas, and helps them choose.
 
 ## License
 

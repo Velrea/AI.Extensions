@@ -1,7 +1,7 @@
 {
   "name": "workshop",
   "version": "0.1.0",
-  "description": "Working sessions with the user that draw out and shape their thinking: an interview that settles what is wanted one question at a time, and a converge that settles a choice through rounds of options.",
+  "description": "Draws out what the user wants, builds on their ideas, and helps them choose.",
   "author": {
     "name": "Velrea"
   },
