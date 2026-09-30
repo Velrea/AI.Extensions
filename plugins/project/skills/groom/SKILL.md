@@ -1,7 +1,7 @@
 ---
 name: groom
-description: "Keeps documents, decisions, ideas, and work items true to the code, one area at a time or across the whole repository."
-when_to_use: "Work changes code or documents in an area, or the user asks to groom the repository."
+description: "Keeps documents, decisions, ideas, and work items in step with the code as it changes, one area at a time or across the whole repository."
+when_to_use: "Starting to change code or documents in an area, even when nobody asks for documentation, or the user asks to groom the repository."
 ---
 
 Grooming keeps documents, decision records, ideas, and work items true to the code: it finds what has drifted, what is missing, and what is dead.
@@ -26,7 +26,7 @@ Missing code is not a finding in itself: a repository with work items and no cod
 
 ## Partial groom
 
-While working in an area, groom what belongs to it: the documents named for the area or linking to its code, and the decisions, ideas, and work items that name it. Do it inline, without dispatching an agent.
+While work changes an area, keep what belongs to it in step with the code: the documents named for the area or linking to its code, and the decisions, ideas, and work items that name it. The work is not complete until they match. Do it inline, without dispatching an agent.
 
 Suggest a full groom when the changes since the last one add, remove, or reshape a major system or component.
 
@@ -38,4 +38,4 @@ The commit that applies a full groom carries a `Groomed:` line in its message. T
 
 ## Reporting
 
-Prepare corrections for what is clearly wrong without asking. When content moves out of a document being deleted, carry over every part. Drop only what is wrong, and list each drop with its reason. Ask only about a call close to the line. Tell the user what changed and what needs their call, as numbered one-liners of ten words or fewer and nothing more. Give details only when the user asks for one by number. Commit only once the user has reviewed and approved the changes.
+Prepare corrections for what is clearly wrong without asking. When content moves out of a document being deleted, carry over every part. Drop only what is wrong, and list each drop with its reason. Ask only about a call close to the line. Tell the user what changed and what needs their call, as numbered one-liners of ten words or fewer and nothing more. Give details only when the user asks for one by number.

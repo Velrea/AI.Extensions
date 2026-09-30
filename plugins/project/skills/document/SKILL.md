@@ -22,4 +22,4 @@ A subject earns a document when it is a major system or significant component of
 
 ## What stays out
 
-State only how things are now: no history and no plans. Rationale goes in a decision record, linked from the document.
+State only how things are now: no history and no plans. Beside each choice, give its reason in a line or two. Only a decision that meets the bar in `project:decide` goes in a record instead, linked from the document.
