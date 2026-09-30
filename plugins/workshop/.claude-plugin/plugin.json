@@ -1,0 +1,9 @@
+{
+  "name": "workshop",
+  "version": "0.1.0",
+  "description": "Draws out what the user wants, builds on their ideas, and helps them choose.",
+  "author": {
+    "name": "Velrea"
+  },
+  "license": "MIT"
+}

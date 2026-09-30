@@ -8,6 +8,10 @@
     {
       "name": "project",
       "source": "./plugins/project"
+    },
+    {
+      "name": "workshop",
+      "source": "./plugins/workshop"
     }
   ]
 }
