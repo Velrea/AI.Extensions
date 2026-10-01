@@ -10,7 +10,7 @@ Write the handoff's content as you would without this skill. This skill adds onl
 ## Writing
 
 1. **Location.** Write it in `.claude/handoffs/` under the project root: the git top level, or the working directory when there is no git repository. When you are not in a project at all, ask the user where it goes.
-2. **Ignore.** In a git repository, make sure the root `.gitignore` ignores both `.claude/handoffs/` and `.claude/worktrees/`, adding whichever line is missing.
+2. **Ignore.** In a git repository, make sure the root `.gitignore` ignores `.claude/handoffs/`, adding the line if it is missing.
 3. **Name.** `<short-kebab-name-of-the-work>-<yyyyMMdd-HHmmss>.md`, in local time. Never overwrite a file: if the name is taken, add `-2`, `-3`, and so on.
 4. **Once.** A handoff is a one-time note. Never update or append to one; a later handoff is a new file.
 5. **Self-deleting.** The file opens with these lines, verbatim:
