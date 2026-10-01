@@ -1,0 +1,9 @@
+{
+  "name": "general",
+  "version": "0.1.0",
+  "description": "Small skills that fill gaps in what Claude Code does on its own. Each adds only what Claude Code misses, and is reduced or retired once Claude Code does that reliably without it.",
+  "author": {
+    "name": "Velrea"
+  },
+  "license": "MIT"
+}

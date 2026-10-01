@@ -16,6 +16,7 @@ claude plugin install <plugin>@ai-extensions
 
 ## Plugins
 
+- [general](plugins/general/): small skills that fill gaps in what Claude Code does on its own. Each adds only what Claude Code misses, and is reduced or retired once Claude Code does that reliably without it.
 - [project](plugins/project/): keeps a repository's documentation and project management in good condition.
 - [workshop](plugins/workshop/): draws out what the user wants, builds on their ideas, and helps them choose.
 
