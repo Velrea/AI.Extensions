@@ -14,4 +14,4 @@ Name the subject the idea concerns in words, never as a link to a work item, the
 
 ## Triage
 
-List the ideas as numbered one-liners. The user answers each with promote, drop, or keep. Promote hands the idea to `project:work`, which creates the item and keeps the idea until the work is done. Drop deletes the file, never marks it.
+List the ideas as numbered one-liners. The user answers each with promote, drop, or keep. Promote hands the idea to `project:work`, which creates the item from it and deletes the idea. Drop deletes the file, never marks it.
