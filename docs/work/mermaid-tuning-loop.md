@@ -1,6 +1,6 @@
 # Mermaid tuning loop
 
-A loop that improves a Mermaid skill against a fixed set of requests, starting with the flowchart skill. Promoted from the idea `mermaid-tuning-loop`.
+A loop that improves a Mermaid skill against a fixed set of requests, starting with the flowchart skill.
 
 Done when the loop can run on its own against the flowchart skill's approved cases, improving the skill until it gets stuck, and the user can review what it did and every diagram it drew.
 
