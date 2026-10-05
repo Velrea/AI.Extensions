@@ -10,6 +10,10 @@
       "source": "./plugins/general"
     },
     {
+      "name": "mermaid",
+      "source": "./plugins/mermaid"
+    },
+    {
       "name": "project",
       "source": "./plugins/project"
     },
