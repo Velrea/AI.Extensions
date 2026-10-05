@@ -1,6 +1,6 @@
 {
   "name": "mermaid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Mermaid diagrams in markdown, rendered to images so each can be looked at and fixed before it is done.",
   "author": {
     "name": "Velrea"
