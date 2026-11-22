@@ -1,7 +1,7 @@
 ---
 name: idea
 description: "Captures and triages ideas."
-when_to_use: "The user asks to capture, park, or note an idea, or to triage ideas."
+when_to_use: "The user asks to capture or note an idea, or to triage ideas."
 ---
 
 An idea is something that might be worth doing, with no commitment. Each is one file in `docs/ideas/`, or the folder `AGENTS.md` records instead, named for the idea.
